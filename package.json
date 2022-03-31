@@ -1,0 +1,23 @@
+{
+  "name": "my-first-serverless-project",
+  "version": "1.0.0",
+  "description": "netlify functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosRMonzon/my-first-serverless-project.git"
+  },
+  "author": "Marcos Monzón <marcos@rusticit.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcosRMonzon/my-first-serverless-project/issues"
+  },
+  "homepage": "https://github.com/MarcosRMonzon/my-first-serverless-project#readme",
+  "dependencies": {
+    "netlify-cli": "^9.13.6",
+    "node-fetch": "^3.2.3"
+  }
+}
